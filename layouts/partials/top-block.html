@@ -1,0 +1,19 @@
+
+    <!-- Full Page Image Header Area -->
+    <div id="top" class="header">
+      <div class="vert-text">
+        <a href="#intro"><img src="{{ .Site.Params.mainIcon }}" class="logo"></a>
+        <div class="siteTitle">{{ .Site.Title }}</div>
+        <div class="description">{{ .Site.Params.description }}</div>
+        <div class="buttonbox">
+        <a href="/overview/introduction" class="btn btn-primary btn-lg">Docs <i class="icon-idea"></i></a>
+        <a href="#action" class="btn btn-success btn-lg">Install <i class="icon-arrow-down"></i></a>
+        <a href="http://discuss.gohugo.io" class="btn btn-info btn-lg">Community <i class="icon-talking"></i></a>
+        <a href="https://github.com/spf13/hugo" class="btn btn-dark btn-lg">GitHub <i class="icon-circlestar"></i></a>
+        {{ range .Site.Params.social }}
+            <a href="{{ .url }}" class="btn btn-default btn-lg"><i class="icon-{{ lower .title }}"></i> <span class="network-name">{{ .title }}</span></a>
+        {{ end }}
+        </div>
+      </div>
+    </div>
+    <!-- /Full Page Image Header Area -->
