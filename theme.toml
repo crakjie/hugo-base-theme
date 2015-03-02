@@ -1,6 +1,15 @@
-author = "sp13 crakjie"
-description = "theme inspired by gohugo.io"
+name = "Hugo Base"
 license = "MIT"
-name = "landing page hugo"
-source_repo = ""
-tags = ["landing", "hugo"]
+description = "Theme inspired by gohugo.io"
+homepage = "https://github.com/crakjie/hugo-base-theme"
+tags = ["landing page", "hugo"]
+features = ["blog", ]
+min_version= 0.12
+
+[author]
+     name = "crakjie"
+
+[original]
+    author =  "spf13"
+    homepage = "https://spf13.com"
+
