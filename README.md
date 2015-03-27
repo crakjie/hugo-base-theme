@@ -46,8 +46,8 @@ icon = "circlestar"
 
 
 ## Demo
-View  gohugo.io theme in action [here](https://gohugo.io)
-
+View gohugo.io theme in action [here](https://gohugo.io)
+View audrey-carpentras.com in action [here](http://audrey-carpentras.com/)
 
 ===
 
