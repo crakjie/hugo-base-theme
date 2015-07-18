@@ -1,0 +1,16 @@
+baseurl = "http://yourSiteHere"
+languageCode = "fr-fr"
+title = "my new web site"
+[params]
+  description = "I <3 making web site"
+  mainIcon = "/img/hugo.png"
+
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/SBootstrap"
+[[params.social]]
+    title = "github"
+    url = "https://github.com/IronSummitMedia/startbootstrap"
+[[params.social]]
+    title = "linkedin"
+    url = ""
