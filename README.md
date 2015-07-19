@@ -53,7 +53,7 @@ View audrey-carpentras.com in action [here](http://audrey-carpentras.com/)
 
 Work also with YAML header
 
-For more Hugo details, read [documentation](http://jekyllrb.com/).
+For more Hugo details, read [documentation](http://gohugo.io/overview/introduction/).
 
 ## Config
 
