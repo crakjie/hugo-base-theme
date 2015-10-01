@@ -57,7 +57,7 @@ For more Hugo details, read [documentation](http://gohugo.io/overview/introducti
 
 ## Config
 
-exemple of config.toml file
+Example of config.toml file:
 ```toml
 baseurl = "http://yourSiteHere"
 languageCode = "fr-fr"
