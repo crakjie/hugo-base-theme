@@ -20,8 +20,9 @@ icon = "pacman"
 
 Hello first post
 ```
-### carrousel
+### carousel
 
+Create a carousel.md files in /content/carousel
 
 ```toml
 +++
