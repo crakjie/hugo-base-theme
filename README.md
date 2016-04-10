@@ -22,7 +22,7 @@ Hello first post
 ```
 ### carousel
 
-Create a carousel.md files in /content/carousel
+Create a carousel.md file in /content/carousel
 
 ```toml
 +++
