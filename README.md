@@ -1,9 +1,10 @@
 # Hugo base theme
 
-Hugo theme based on [gohugo](https://gohugo.io)
+Hugo theme based on the [gohugo](https://gohugo.io) website
 
 ## How to use
- - Place a image in `static/img/`
+ - Place a image in `static/img/` and update `mainIcon` in config.toml
+ - You can change the header image by adding a new image in the `static/img/` folder of the theme
  - Create posts to display your services. Use the follow as an example:
 
 ### post
