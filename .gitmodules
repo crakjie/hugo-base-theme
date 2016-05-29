@@ -1,0 +1,3 @@
+[submodule "exampleSite/hugo-base-theme"]
+	path = exampleSite/hugo-base-theme
+	url = https://github.com/crakjie/hugo-base-theme.git

@@ -2,7 +2,7 @@
 
 Hugo theme based on the [gohugo](https://gohugo.io) website
 
-# Installation 
+# Installation
 
 Navigate to your site folder and run the following commands :
 
@@ -59,11 +59,19 @@ icon = "circlestar"
 View gohugo.io theme in action [here](https://gohugo.io)
 View audrey-carpentras.com in action [here](http://audrey-carpentras.com/)
 
+#Have a look, Have a try
+```
+git clone https://github.com/crakjie/hugo-base-theme.git
+cd hugo-base-theme/exempleSite
+hugo server -t hugo-base-theme
+```
+
 ===
 
 Work also with YAML header
 
 For more Hugo details, read [documentation](http://gohugo.io/overview/introduction/).
+
 
 ## Config
 
