@@ -77,7 +77,7 @@ For more Hugo details, read [documentation](http://gohugo.io/overview/introducti
 
 Example of config.toml file:
 ```toml
-baseurl = "http://yourSiteHere"
+baseurl = "https://www.example.com"
 languageCode = "fr-fr"
 title = "my new web site"
 [params]
