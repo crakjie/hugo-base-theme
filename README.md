@@ -62,7 +62,7 @@ View audrey-carpentras.com in action [here](http://audrey-carpentras.com/)
 #Have a look, Have a try
 ```
 git clone https://github.com/crakjie/hugo-base-theme.git
-cd hugo-base-theme/exempleSite
+cd hugo-base-theme/exampleSite
 hugo server -t hugo-base-theme
 ```
 
